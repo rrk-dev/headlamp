@@ -1,0 +1,19 @@
+frontend/src/i18n/locales/hi/translation.json
+  s_98c42e179eb935::t_20741715fbbf10 196-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "c11469e7b95a691594af578cd518a9d9268004ac",
+  "prompts": {},
+  "sessions": {
+    "s_98c42e179eb935": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d66a90b0-ede9-4a20-9ceb-3783df5d8b3e",
+        "model": "default"
+      },
+      "human_author": "Rajeshkumar Reddy <rajeshkumar.msc@gmail.com>"
+    }
+  }
+}
