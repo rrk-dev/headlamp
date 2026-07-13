@@ -1,0 +1,59 @@
+frontend/src/components/App/Settings/useClusterSettings.ts
+  s_98c42e179eb935::t_0ff6b80a72f6dd 79
+  s_98c42e179eb935::t_47efe96aa07ac4 35-42
+frontend/src/components/App/Settings/useClusterSettings.test.ts
+  s_98c42e179eb935::t_374c1f61e15469 45,54-68
+  s_98c42e179eb935::t_d838378b30ee90 69
+frontend/src/i18n/locales/ur/translation.json
+  s_98c42e179eb935::t_7713a8193285c5 899
+frontend/src/i18n/locales/bn/translation.json
+  s_98c42e179eb935::t_93704c18131c49 899
+frontend/src/i18n/locales/ru/translation.json
+  s_98c42e179eb935::t_5be1b2d4bacd31 913
+frontend/src/i18n/locales/ar/translation.json
+  s_98c42e179eb935::t_7b4abd96e51b8e 927
+frontend/src/lib/k8s/useDiscoveredNamespaces.ts
+  s_98c42e179eb935::t_aba3c19f33ce22 166
+frontend/src/i18n/locales/de/translation.json
+  s_98c42e179eb935::t_288a888c20492c 899
+frontend/src/i18n/locales/en/translation.json
+  s_98c42e179eb935::t_e6a4230fd121ff 899
+frontend/src/i18n/locales/es/translation.json
+  s_98c42e179eb935::t_cbac8f0dc7cf9f 906
+frontend/src/i18n/locales/fr/translation.json
+  s_98c42e179eb935::t_6c190b9c4b7380 906
+frontend/src/i18n/locales/he/translation.json
+  s_98c42e179eb935::t_3e7e9b09e662ae 906
+frontend/src/i18n/locales/hi/translation.json
+  s_98c42e179eb935::t_f85734decfdda7 899
+frontend/src/i18n/locales/it/translation.json
+  s_98c42e179eb935::t_fa12e905a5ac21 906
+frontend/src/i18n/locales/ja/translation.json
+  s_98c42e179eb935::t_787fba60e6e4c5 892
+frontend/src/i18n/locales/ko/translation.json
+  s_98c42e179eb935::t_ff3e05927dd2c7 892
+frontend/src/i18n/locales/pt/translation.json
+  s_98c42e179eb935::t_28804e6442b3ab 906
+frontend/src/i18n/locales/ta/translation.json
+  s_98c42e179eb935::t_38dd3f4f49c809 899
+frontend/src/i18n/locales/zh-tw/translation.json
+  s_98c42e179eb935::t_9ccc9086dfcc69 892
+frontend/src/i18n/locales/zh/translation.json
+  s_98c42e179eb935::t_5c7f15c61f95c0 892
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "d00649c8e4a96687c17709e0ea047c726f605aa9",
+  "prompts": {},
+  "sessions": {
+    "s_98c42e179eb935": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d66a90b0-ede9-4a20-9ceb-3783df5d8b3e",
+        "model": "default"
+      },
+      "human_author": "Rajeshkumar Reddy <rajeshkumar.msc@gmail.com>"
+    }
+  }
+}
