@@ -1,0 +1,26 @@
+frontend/src/lib/k8s/KubeObject.ts
+  s_98c42e179eb935::t_94fab4a46ed903 479
+  s_98c42e179eb935::t_bf732cc2af5b18 426,435-439,449-462
+frontend/src/lib/k8s/api/v2/useKubeObjectList.test.tsx
+  s_98c42e179eb935::t_69add1b61ac976 353,366-385
+  s_98c42e179eb935::t_8684edd0a0ee93 386-387
+frontend/src/lib/k8s/api/v2/useKubeObjectList.ts
+  s_98c42e179eb935::t_72e2356fd06013 430,440-441,444
+  s_98c42e179eb935::t_00a017398dc27f 445-449,453-454
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b66a060bb451548339b261051c13cda4a5b66bc4",
+  "prompts": {},
+  "sessions": {
+    "s_98c42e179eb935": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d66a90b0-ede9-4a20-9ceb-3783df5d8b3e",
+        "model": "default"
+      },
+      "human_author": "Rajeshkumar Reddy <rajeshkumar.msc@gmail.com>"
+    }
+  }
+}
