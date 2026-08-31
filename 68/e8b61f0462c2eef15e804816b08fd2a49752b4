@@ -1,0 +1,19 @@
+frontend/src/lib/k8s/KubeObject.ts
+  s_e8dd2e554b2fa3::t_a75a1c0ec71499 436,443
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "68e8b61f0462c2eef15e804816b08fd2a49752b4",
+  "prompts": {},
+  "sessions": {
+    "s_e8dd2e554b2fa3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7ba94ba1-d2eb-4746-bf83-536c9fe64f6b",
+        "model": "default"
+      },
+      "human_author": "Rajeshkumar Reddy <rajeshkumar.msc@gmail.com>"
+    }
+  }
+}
